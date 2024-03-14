@@ -8,7 +8,7 @@ export default function UserPage(props) {
     >
 
       <div className="flex gap-2">
-        <Link href="/index">Versi CSR</Link>
+        <Link href="/">Versi CSR</Link>
         <Link href="/">Dashboard</Link>
       </div>
 
